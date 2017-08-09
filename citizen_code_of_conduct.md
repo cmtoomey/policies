@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# Tableau Public Code of Conduct
 
 ## 1. Purpose
 
