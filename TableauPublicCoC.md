@@ -10,9 +10,7 @@ We invite all those who participate in Tableau Public to help us create safe and
 
 ## 2. Tableau Public Citizenship
 
-A supplemental goal of this Code of Conduct is to increase Tableau Public citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
-
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+A supplemental goal of this Code of Conduct is to increase Tableau Public citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. We want to encourage creativity, learning, and innovation amongst our members. 
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
@@ -22,7 +20,7 @@ The following behaviors are expected and requested of all community members:
 
   * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
   * Exercise consideration and respect in your speech and actions.
-  * Attribute the work of others appropriately. 
+  * Honor others hard work by providing appropriate attribution when you are inspired by them.  
   * Attempt collaboration before conflict, including, but not limited to engaging in private conversations before public ones to resolve issues.
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
   * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
@@ -52,8 +50,6 @@ If a community member engages in unacceptable behavior, the community organizers
 ## 6. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [You can report issues here](https://public.tableau.com/en-us/s/data-policy).
-
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 7. Addressing Grievances
 
